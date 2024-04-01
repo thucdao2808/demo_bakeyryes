@@ -1,0 +1,154 @@
+.box_wrap_option {
+  display: flex;
+  width: 100%;
+  margin-top: 50px;
+}
+.system_option_store_banner {
+  display: flex;
+  margin: 0 auto;
+  width: 80%;
+  border-radius: 5px;
+  justify-content: space-around;
+  border: 2.5px solid rgb(205 155 50);
+  padding: 20px 0px;
+}
+.container_sys_store {
+  display: flex;
+}
+.faStore,
+.faUsers,
+.faClock {
+  width: 60px;
+  height: 60px;
+  background-color: rgb(205 155 50);
+  border-radius: 50%;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+.contents_sys {
+  padding-left: 6px;
+}
+.text_message {
+  font-size: 17px;
+  font-weight: 450;
+  line-height: 25.5px;
+  text-align: left;
+}
+.box_destination{
+
+    height: fit-content;
+}
+.contain_research_map{
+    width: 60%;
+
+}
+.box_search_street{
+    width: 40%;
+    height: 480px;
+    float: right;
+    display: flex;
+    justify-content: flex-end;
+}
+.box_select_des{
+   
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    margin: 10px auto;
+}
+.select_district{
+    display: flex;
+    justify-content: space-between;
+    background-color: azure;
+    border: 1px solid #cd9b32;
+    border-radius: 5px;
+    padding: 8px;
+    margin-left: 10px;
+
+
+}
+.select_street{
+    display: flex;
+    justify-content: space-between;
+    background-color:#cd9b32;
+    color: white;
+    border-radius: 3px;
+    padding: 8px;
+    
+}
+.title_destination{
+    color: #cd9b32;
+    font-size: 15px;
+}
+.component_des{
+    border: 2.5px solid #cd9b32;
+    margin: 10px;
+    border-radius: 5px;}
+.component_des:hover{
+    background-color:#cd9b32;
+    color: white;
+}
+.component_des:hover .title_destination{
+    background-color:#cd9b32;
+    color: white;
+}
+.address_destination,.Hotline_sever{
+    font-weight: 300;
+    padding-top: 10px;
+   
+}
+
+.list_destination{
+
+}
+.option_destination{
+    width:380px;
+    overflow-y: scroll;
+    margin-top: 20px;
+    background-color:#f3e7cd ;
+    border-radius: 6px;
+}
+.option_destination::-webkit-scrollbar{
+ width:4px;
+ 
+}
+.option_destination::-webkit-scrollbar-thumb{
+    background-color: #cd9b32;
+ 
+}
+.option_destination::-webkit-scrollbar-track{
+    background-color: white;
+   
+}
+.detail_address_des{
+    font-weight: 300;
+}
+.live_shop{
+    font-weight: 500;
+}
+.detail_hotline__sever{
+    color: #cd9b32;
+    font-weight: 500;
+}
+.component_des:hover .detail_hotline__sever{
+    color: white;
+}
+.faChevronDown{
+    padding-left: 5px;
+}
+.box_destination{
+    display: flex;
+}
+.map_select{
+    width: 80%;
+    height: 100%;
+}
+.contain_research_map{
+    display: flex;
+    justify-content:flex-start;
+    margin-top: 20px;
+    margin-left: 10px;
+}

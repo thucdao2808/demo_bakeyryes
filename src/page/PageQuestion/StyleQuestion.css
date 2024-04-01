@@ -1,0 +1,152 @@
+.box_question_conssult {
+  width: 730px;
+  height: fit-content;
+  margin-top: 20px;
+}
+.title_consult {
+  background-color: rgb(205 155 50);
+  border-radius: 5px 5px 0px 0px;
+  color: rgb(255 255 255);
+  font-family: Quicksand;
+  font-size: 23px;
+  font-weight: 500;
+
+  line-height: 25.2px;
+  padding: 12px 20px;
+  text-align: left;
+}
+.contents_consult {
+  font-size: 20px;
+  font-family: Quicksand;
+  line-height: 24px;
+  border: 1px solid black;
+  border-radius: 0 0 8px 8px;
+  padding: 30px;
+}
+.contents_consult_2,
+.contents_consult_3,
+.contents_consult_4,
+.contents_consult_5,
+.contents_consult_6,
+.contents_consult_7,
+.contents_consult_8,
+.contents_consult_9,
+.contents_consult_10,
+.contents_consult_11,
+.contents_consult_12,
+.contents_consult_13,
+.contents_consult_14 {
+  font-size: 20px;
+  font-family: Quicksand;
+  line-height: 24px;
+  border: 1px solid black;
+  border-radius: 0 0 8px 8px;
+  padding: 30px;
+}
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
+.title_consult_2,
+.title_consult_3,
+.title_consult_4,
+.title_consult_5,
+.title_consult_6,
+.title_consult_7,
+.title_consult_8,
+.title_consult_9,
+.title_consult_10,
+.title_consult_14,
+.title_consult_11,
+.title_consult_12,
+.title_consult_13 {
+  background-color: rgb(227 227 227);
+  border-radius: 5px 5px 0px 0px;
+  color: rgb(23, 23, 23);
+  font-family: Quicksand;
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 25.2px;
+  padding: 12px 20px;
+}
+.clicked {
+  background-color: rgb(205 155 50);
+  color: white;
+}
+.line_question{
+  width: 100px;
+  height: 4px;
+  background-color: rgb(244, 191, 0);
+  border-radius: 4px;
+  margin-top: 10px;
+}
+.title_consult_account{
+  margin-top: 20px;
+}
+.contain_box_all_ques_clients{
+  display: flex;
+  justify-content: center;
+}
+.contain_repond_guide_clients{
+  width: 30%;
+  float: right;
+
+}
+.box_left_all_ques{
+   
+}
+.input_clients{
+  width:100%;
+}
+.contents_sent{
+  max-width: 500px;
+  height: fit-content;
+}
+.box_contain_ques{
+  width: 60%;
+  float: right;
+  display: flex;
+  justify-content:center;
+ 
+}
+.input_clients{
+  height: 40px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid rgb(231, 184, 14);
+}
+.box_repond_guide_clients{
+  margin-top: 30px;
+  background-color: blanchedalmond;
+}
+.content_reponds_clients{
+  margin-top: 10px;
+}
+.sent_infors{
+  display: flex;
+  justify-content: center;
+text-align: center;
+margin-top: 10px;
+
+}
+.title_relsove{
+  padding-top: 20px;
+  padding-left: 10px;
+}
+.contents_sent{
+   margin: 20px;
+   padding-left: 10px;
+}
+.btn_sent{
+  border: none;
+  background-color:rgb(231, 184, 14) ;
+  padding: 10px;
+  border-radius: 5px;
+  color:white;
+}
+.box_inputs_clients{
+margin-top: 10px;
+}
+
